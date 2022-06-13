@@ -1,0 +1,233 @@
+# Hexo Configuration
+## Docs: https://hexo.io/docs/configuration.html
+## Source: https://github.com/hexojs/hexo/
+
+# Site
+#title: "Zhenpeng Lin"
+title: ""
+subtitle: '![](https://i.imgur.com/mJYxSUd.png) this is subbbbb'
+description: "
+<!-- <img src=\"./IMG.JPG\" width=\"120\" height=\"160\" div align=left -->
+<font face=\"Menlo\" size=6><b>Zhenpeng Lin</b></font>
+
+Email: [zplin@u.northwestern.edu](mailto:zplin@u.northwestern.edu)
+
+[resume](./ZhenpengLin.pdf) [PGP Key](./pgp_pub.txt)
+
+
+I am a third-year PhD student at [Northwestern University](https://www.northwestern.edu). I am fortunate to be advised by [Dr. Xinyu Xing](http://xinyuxing.org/). My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team [Nu1L](https://nu1l.com). 
+
+
+<!--
+I am very active in \"hacking\" the world, I found critical vulnerabilities causing remote code execution (RCE) and local privilege escalation (LPE) when I was an intern at Chaitin: CVE-2017-8187, CVE-2017-8188, CVE-2017-8190, CVE-2017-8191, CVE-2017-17223, CVE-2017-17221, CVE-2017-17222. -->
+<!--这些是注释文本，不会显示-->
+
+# Publications
+
+
+[**GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs**](./papers/GREBE.pdf)
+
+<font size=2>***Zhenpeng Lin***, *Yueqi Chen, Yuhang Wu, Dongliang Mu, Chensheng Yu, Xinyu Xing, Kang Li*</font>
+
+IEEE S&P 2022  [[code]](https://github.com/markakd/GREBE) [[slides]](./papers/GREBE_slides.pdf)
+
+
+[**An In-depth Analysis of Duplicated Linux Kernel Bug Reports**](./papers/bug_analysis.pdf)
+
+<font size=2>*Dongliang Mu, Yuhang Wu, Yueqi Chen, **Zhenpeng Lin**, Chensheng Yu, Xinyu Xing, Gang Wang*</font>
+
+NDSS 2022
+
+[**A Systematic Study of Elastic Objects in Kernel Exploitation**](./papers/ELOISE.pdf)
+
+<font size=2>*Yueqi Chen, **Zhenpeng Lin**, Xinyu Xing*</font>
+
+ACM CCS 2020 [[code]](https://github.com/chenyueqi/W2L) [[slides]](./papers/ELOISE_slides.pdf) [[video]](./papers/ELOISE_presentation.mp4)
+
+# Talks
+
+[**Cautious: A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe**]()
+
+<font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
+
+Black Hat USA 2022
+
+
+[**Your Trash Kernel Bug, My Precious 0-day**](./talks/BHEU21_trash_kernel_bug.pdf)
+
+<font size=2>***Zhenpeng Lin***, *Yueqi Chen, Xinyu Xing, Kang Li*</font>
+
+Black Hat Europe 2021
+
+
+[**Finding Multiple Bug Effects for More Precise Exploitability Estimation**](./talks/LSS_2021_Multiple_Error_Behavior.pdf)
+
+<font size=2>***Zhenpeng Lin***, *Yueqi Chen*</font>
+
+Linux Security Summit North America 2021
+
+
+[**A General Approach to Bypassing Many Kernel Protections and its Mitigation**](./talks/bhasia21.pdf)
+
+<font size=2>*Yueqi Chen, **Zhenpeng Lin**, Xinyu Xing*</font>
+
+Black Hat Asia 2021
+
+
+[**Bypassing Many Kernel Protections Using Elastic Objects**](./talks/Bypassing-Many-Kernel-Protections-Using-Elastic-Objects.pdf)
+
+<font size=2>*Yueqi Chen*, ***Zhenpeng Lin***</font>
+
+Linux Security Summit Europe 2020
+
+# Articles
+
+[**How AUTOSLAB Changes the Memory Unsafety Game**](https://grsecurity.net/how_autoslab_changes_the_memory_unsafety_game)
+
+# Honors and Awards
+
+Pwn2Own Winner, 2022
+
+LSS North America, Student Travel Grant Award, 2021
+
+7th at DEF CON 29 CTF Finals, Team Nu1L, 2021
+
+Black Hat USA, Student Scholarship, 2021
+
+Black Hat USA, Student Scholarship, 2020
+
+
+# Community Services
+
+**External reviewer**
+
+* IEEE S&P 2022
+
+* USENIX Security 2021, ACM CCS 2021
+
+* USENIX Security 2020, ACM CCS 2020
+
+
+# Hacking
+
+CVE-2021-3715
+
+CVE-2017-8187
+
+CVE-2017-8188
+
+CVE-2017-8190
+
+CVE-2017-8191
+
+CVE-2017-17223
+
+CVE-2017-17221
+
+CVE-2017-17222
+
+
+"
+keywords:
+author: 
+language: en
+timezone: ''
+
+# URL
+## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
+url: https://zplin.me
+root: /
+permalink: :year/:month/:day/:title/
+permalink_defaults:
+pretty_urls:
+  trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
+  trailing_html: true # Set to false to remove trailing '.html' from permalinks
+
+# Directory
+source_dir: source
+public_dir: public
+tag_dir: tags
+archive_dir: archives
+category_dir: categories
+code_dir: downloads/code
+i18n_dir: :lang
+skip_render:
+
+# Writing
+new_post_name: :title.md # File name of new posts
+default_layout: post
+titlecase: false # Transform title into titlecase
+external_link:
+  enable: true # Open external links in new tab
+  field: site # Apply to the whole site
+  exclude: ''
+filename_case: 0
+render_drafts: false
+post_asset_folder: false
+relative_link: false
+future: true
+highlight:
+  enable: false
+  line_number: true
+  auto_detect: false
+  tab_replace: ''
+  wrap: true
+  hljs: false
+
+# Home page setting
+# path: Root path for your blogs index page. (default = '')
+# per_page: Posts displayed per page. (0 = disable pagination)
+# order_by: Posts order. (Order by date descending by default)
+index_generator:
+  path: ''
+  per_page: 10
+  order_by: -date
+
+# Category & Tag
+default_category: uncategorized
+category_map:
+tag_map:
+
+# Metadata elements
+## https://developer.mozilla.org/en-US/docs/Web/HTML/Element/meta
+meta_generator: true
+
+# Date / Time format
+## Hexo uses Moment.js to parse and display date
+## You can customize the date format as defined in
+## http://momentjs.com/docs/#/displaying/format/
+date_format: YYYY-MM-DD
+time_format: HH:mm:ss
+## Use post's date for updated date unless set in front-matter
+use_date_for_updated: false
+
+# Pagination
+## Set per_page to 0 to disable pagination
+per_page: 10
+pagination_dir: page
+
+# Include / Exclude file(s)
+## include:/exclude: options only apply to the 'source/' folder
+include:
+exclude:
+ignore:
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: cactus
+
+#theme: landscape
+# Deployment
+## Docs: https://hexo.io/docs/deployment.html
+deploy:
+  skip_cleanup: true
+  type: git
+  repo: git@github.com:Markakd/Markakd.github.io.git
+  branch: master
+
+# Sitemap
+#sitemap:
+#  path: sitemap.xml
+#  template: ./sitemap_template.xml
+#  rel: false
