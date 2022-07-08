@@ -17,12 +17,29 @@ Email: [zplin@u.northwestern.edu](mailto:zplin@u.northwestern.edu)
 
 I am a third-year PhD student at [Northwestern University](https://www.northwestern.edu). I am fortunate to be advised by [Dr. Xinyu Xing](http://xinyuxing.org/). My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team [Nu1L](https://nu1l.com). 
 
+# News
 
-<!--
-I am very active in \"hacking\" the world, I found critical vulnerabilities causing remote code execution (RCE) and local privilege escalation (LPE) when I was an intern at Chaitin: CVE-2017-8187, CVE-2017-8188, CVE-2017-8190, CVE-2017-8191, CVE-2017-17223, CVE-2017-17221, CVE-2017-17222. -->
-<!--这些是注释文本，不会显示-->
+**07/2022** I exploit the latest Google Pixel 6/6 Pro kernel with a 0day. [[demo]](./pixel6_demo.mp4)
+
+
+**06/2022** Our submission of a new exploitation approach is accepted by [BlackHat USA](https://www.blackhat.com/us-22/briefings/schedule/#cautious-a-new-exploitation-method-no-pipe-but-as-nasty-as-dirty-pipe-27169).
+
+
+**05/2022** We (team TUTELARY at NU) pwned lastest Ubuntu system at [Pwn2Own](https://www.zerodayinitiative.com/blog/2022/5/18/pwn2own-vancouver-2022-the-results). [[press]](https://therecord.media/tesla-microsoft-and-ubuntu-bugs-found-during-pwn2own-hacking-competition/)
+
+
+**-/2022** A new exploit is submitted to KCTF VRP.
+
+
+**11/2022** I am the first to successfully exploit Google's [COS](https://cloud.google.com/container-optimized-os/docs) through [KCTF VRP](https://security.googleblog.com/2022/02/roses-are-red-violets-are-blue-giving.html).
 
 # Publications
+
+[**Cautious: A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe**]()
+
+<font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
+
+Black Hat USA 2022 (To be appear)
 
 
 [**GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs**](./papers/GREBE.pdf)
@@ -37,20 +54,6 @@ IEEE S&P 2022  [[code]](https://github.com/markakd/GREBE) [[slides]](./papers/GR
 <font size=2>*Dongliang Mu, Yuhang Wu, Yueqi Chen, **Zhenpeng Lin**, Chensheng Yu, Xinyu Xing, Gang Wang*</font>
 
 NDSS 2022
-
-[**A Systematic Study of Elastic Objects in Kernel Exploitation**](./papers/ELOISE.pdf)
-
-<font size=2>*Yueqi Chen, **Zhenpeng Lin**, Xinyu Xing*</font>
-
-ACM CCS 2020 [[code]](https://github.com/chenyueqi/W2L) [[slides]](./papers/ELOISE_slides.pdf) [[video]](./papers/ELOISE_presentation.mp4)
-
-# Talks
-
-[**Cautious: A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe**]()
-
-<font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
-
-Black Hat USA 2022
 
 
 [**Your Trash Kernel Bug, My Precious 0-day**](./talks/BHEU21_trash_kernel_bug.pdf)
@@ -74,39 +77,18 @@ Linux Security Summit North America 2021
 Black Hat Asia 2021
 
 
+[**A Systematic Study of Elastic Objects in Kernel Exploitation**](./papers/ELOISE.pdf)
+
+<font size=2>*Yueqi Chen, **Zhenpeng Lin**, Xinyu Xing*</font>
+
+ACM CCS 2020 [[code]](https://github.com/chenyueqi/W2L) [[slides]](./papers/ELOISE_slides.pdf) [[video]](./papers/ELOISE_presentation.mp4)
+
+
 [**Bypassing Many Kernel Protections Using Elastic Objects**](./talks/Bypassing-Many-Kernel-Protections-Using-Elastic-Objects.pdf)
 
 <font size=2>*Yueqi Chen*, ***Zhenpeng Lin***</font>
 
 Linux Security Summit Europe 2020
-
-# Articles
-
-[**How AUTOSLAB Changes the Memory Unsafety Game**](https://grsecurity.net/how_autoslab_changes_the_memory_unsafety_game)
-
-# Honors and Awards
-
-Pwn2Own Winner, 2022
-
-LSS North America, Student Travel Grant Award, 2021
-
-7th at DEF CON 29 CTF Finals, Team Nu1L, 2021
-
-Black Hat USA, Student Scholarship, 2021
-
-Black Hat USA, Student Scholarship, 2020
-
-
-# Community Services
-
-**External reviewer**
-
-* IEEE S&P 2022
-
-* USENIX Security 2021, ACM CCS 2021
-
-* USENIX Security 2020, ACM CCS 2020
-
 
 # Hacking
 
@@ -125,6 +107,39 @@ CVE-2017-17223
 CVE-2017-17221
 
 CVE-2017-17222
+
+# Articles
+
+[**How AUTOSLAB Changes the Memory Unsafety Game**](https://grsecurity.net/how_autoslab_changes_the_memory_unsafety_game)
+
+# Honors and Awards
+
+Received $50337 reward from Google, 2022
+
+Pwn2Own Winner, 2022
+
+LSS North America, Student Travel Grant Award, 2021
+
+7th at DEF CON 29 CTF Finals, Team Nu1L, 2021
+
+Black Hat USA, Student Scholarship, 2021
+
+Black Hat USA, Student Scholarship, 2020
+
+
+# Community Services
+
+**External reviewer**
+
+* IEEE S&P 2023, ACM CCS 2023
+
+* IEEE S&P 2022, USENIX Security 2022
+
+* USENIX Security 2021, ACM CCS 2021
+
+* USENIX Security 2020, ACM CCS 2020
+
+
 
 
 "
