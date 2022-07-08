@@ -19,7 +19,7 @@ I am a third-year PhD student at [Northwestern University](https://www.northwest
 
 # News
 
-**07/2022** I exploit the latest Google Pixel 6/6 Pro kernel with a 0day. [[demo]](./pixel6_demo.mp4)
+**07/2022** I report (and exploit) a kernel 0day that affects all Android devices based on kernel v5.10 to Google. [[demo]](./pixel6_demo.mp4)
 
 
 **06/2022** Our [submission](https://www.blackhat.com/us-22/briefings/schedule/#cautious-a-new-exploitation-method-no-pipe-but-as-nasty-as-dirty-pipe-27169) of a new exploitation approach is accepted to Black Hat USA.
