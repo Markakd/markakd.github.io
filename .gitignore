@@ -7,3 +7,4 @@ node_modules/
 _multiconfig.yml
 public/archives/
 public/index.html
+public/*.xml
