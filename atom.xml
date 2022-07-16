@@ -6,8 +6,13 @@
   <link href="https://zplin.me/atom.xml" rel="self"/>
   
   <link href="https://zplin.me/"/>
-  <updated>2022-07-16T19:12:33.070Z</updated>
+  <updated>2022-07-16T19:35:36.380Z</updated>
   <id>https://zplin.me/</id>
+  
+  <author>
+    <name>Zhenpeng Lin</name>
+    
+  </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
   
@@ -15,8 +20,8 @@
     <title>Hello World</title>
     <link href="https://zplin.me/2022/07/16/hello-world/"/>
     <id>https://zplin.me/2022/07/16/hello-world/</id>
-    <published>2022-07-16T19:12:33.070Z</published>
-    <updated>2022-07-16T19:12:33.070Z</updated>
+    <published>2022-07-16T19:35:36.380Z</published>
+    <updated>2022-07-16T19:35:36.380Z</updated>
     
     
       
