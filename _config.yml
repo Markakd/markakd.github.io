@@ -5,7 +5,7 @@
 # Site
 #title: "Zhenpeng Lin"
 title: ""
-subtitle: '![](https://i.imgur.com/mJYxSUd.png) this is subbbbb'
+subtitle: ''
 description: "
 <!-- <img src=\"./IMG.JPG\" width=\"120\" height=\"160\" div align=left -->
 <font face=\"Menlo\" size=6><b>Zhenpeng Lin</b></font>
@@ -250,6 +250,24 @@ deploy:
   type: git
   repo: git@github.com:Markakd/Markakd.github.io.git
   branch: master
+
+feed:
+  enable: true
+  type: 
+    - atom
+    - rss
+  path: 
+    - atom.xml
+    - rss.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
 
 # Sitemap
 #sitemap:
