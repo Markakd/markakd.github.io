@@ -19,6 +19,9 @@ I am a third-year PhD student at [Northwestern University](https://www.northwest
 
 # News
 
+**07/2022** Our research of a kernel exploitation approach (DirtyCred) is *conditionally* accepted to CCS.
+
+
 **07/2022** I exploit the latest Google Pixel 6/6 Pro kernel with a 0day. [[demo]](./pixel6_demo.mp4)
 
 
@@ -35,7 +38,14 @@ I am a third-year PhD student at [Northwestern University](https://www.northwest
 
 # Publications
 
-[**Cautious: A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe**]()
+[**DirtyCred: Escalating Privilege in Linux Kernel**]()
+
+<font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
+
+ACM CCS 2022 (To be appear)
+
+
+[**Cautious! A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe**]()
 
 <font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
 
