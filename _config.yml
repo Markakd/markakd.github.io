@@ -159,7 +159,7 @@ timezone: ''
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: https://zplin.me
 root: /
-permalink: :year/:month/:day/:title/
+permalink: :post_title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
@@ -220,8 +220,7 @@ meta_generator: true
 ## http://momentjs.com/docs/#/displaying/format/
 date_format: YYYY-MM-DD
 time_format: HH:mm:ss
-## Use post's date for updated date unless set in front-matter
-use_date_for_updated: false
+updated_option: mtime
 
 # Pagination
 ## Set per_page to 0 to disable pagination
@@ -250,21 +249,17 @@ deploy:
 
 feed:
   enable: true
-  type: 
-    - atom
-    - rss
-  path: 
-    - atom.xml
-    - rss.xml
+  type: rss
+  path: rss.xml
   limit: 20
   hub:
   content:
-  content_limit: 140
-  content_limit_delim: ' '
+  content_limit: 14000 
+  content_limit_delim:
   order_by: -date
   icon: icon.png
   autodiscovery: true
-  template:
+  template: ./source/rss.xml
 
 # Sitemap
 #sitemap:
