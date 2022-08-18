@@ -19,8 +19,6 @@ I am a third-year PhD student at [Northwestern University](https://www.northwest
 
 **05/2022** We (team TUTELARY at NU) pwned lastest Ubuntu system at [Pwn2Own](https://www.zerodayinitiative.com/blog/2022/5/18/pwn2own-vancouver-2022-the-results). [[press]](https://therecord.media/tesla-microsoft-and-ubuntu-bugs-found-during-pwn2own-hacking-competition/)
 
-**-/2022** A new exploit is submitted to KCTF VRP.
-
 **11/2021** I am the first to successfully exploit Google's [COS](https://cloud.google.com/container-optimized-os/docs) through [KCTF VRP](https://security.googleblog.com/2022/02/roses-are-red-violets-are-blue-giving.html).
 
 # Publications
