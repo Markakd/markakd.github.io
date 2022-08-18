@@ -23,6 +23,10 @@ I am a third-year PhD student at [Northwestern University](https://www.northwest
 
 # Publications
 
+[**DirtyCred: Escalating Privilege in Linux Kernel**]()
+<font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
+ACM CCS 2022
+
 [**Cautious! A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe**](https://www.blackhat.com/us-22/briefings/schedule/#cautious-a-new-exploitation-method-no-pipe-but-as-nasty-as-dirty-pipe-27169)
 <font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
 Black Hat USA 2022 [[code]](https://github.com/markakd/DirtyCred) [[slides]](./papers/DirtyCred-Zhenpeng.pdf)
