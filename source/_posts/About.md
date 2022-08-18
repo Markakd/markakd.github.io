@@ -11,7 +11,7 @@ I am a third-year PhD student at [Northwestern University](https://www.northwest
 
 # News
 
-**07/2022** One paper about kernel exploitation(**DirtyCred**) is *conditionally* accepted to CCS.
+**07/2022** One paper about kernel exploitation([**DirtyCred**](https://github.com/markakd/dirtycred)) is *conditionally* accepted to CCS.
 
 **07/2022** I report (and exploit) a kernel 0day that could affect millions of Android devices to Google. [[demo]](./pixel6_demo.mp4)
 
