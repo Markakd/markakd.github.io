@@ -23,13 +23,13 @@ I am a third-year PhD student at [Northwestern University](https://www.northwest
 
 # Publications
 
-[**DirtyCred: Escalating Privilege in Linux Kernel**](./paper/DirtyCred.pdf)
+[**DirtyCred: Escalating Privilege in Linux Kernel**](./papers/DirtyCred.pdf)
 <font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
 ACM CCS 2022 [[code]](https://github.com/markakd/DirtyCred) [[slides]]()
 
 [**Cautious! A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe**](https://www.blackhat.com/us-22/briefings/schedule/#cautious-a-new-exploitation-method-no-pipe-but-as-nasty-as-dirty-pipe-27169)
 <font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
-Black Hat USA 2022 [[code]](https://github.com/markakd/DirtyCred) [[slides]](./papers/DirtyCred-BH22-Zhenpeng.pdf)
+Black Hat USA 2022 [[slides]](./papers/DirtyCred-BH22-Zhenpeng.pdf)
 
 [**GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs**](./papers/GREBE.pdf)
 <font size=2>***Zhenpeng Lin***, *Yueqi Chen, Yuhang Wu, Dongliang Mu, Chensheng Yu, Xinyu Xing, Kang Li*</font>
@@ -43,7 +43,7 @@ NDSS 2022
 <font size=2>***Zhenpeng Lin***, *Yueqi Chen, Xinyu Xing, Kang Li*</font>
 Black Hat Europe 2021 [[slides]](./talks/BHEU21_trash_kernel_bug.pdf)
 
-[**Finding Multiple Bug Effects for More Precise Exploitability Estimation**](./talks/LSS_2021_Multiple_Error_Behavior.pdf)
+[**Finding Multiple Bug Effects for More Precise Exploitability Estimation**]()
 <font size=2>***Zhenpeng Lin***, *Yueqi Chen*</font>
 Linux Security Summit North America 2021 [[slides]](./talks/LSS_2021_Multiple_Error_Behavior.pdf)
 
@@ -55,7 +55,7 @@ Black Hat Asia 2021 [[slides]](./talks/bhasia21.pdf)
 <font size=2>*Yueqi Chen, **Zhenpeng Lin**, Xinyu Xing*</font>
 ACM CCS 2020 [[code]](https://github.com/chenyueqi/W2L) [[slides]](./papers/ELOISE_slides.pdf) [[video]](./papers/ELOISE_presentation.mp4)
 
-[**Bypassing Many Kernel Protections Using Elastic Objects**](./talks/Bypassing-Many-Kernel-Protections-Using-Elastic-Objects.pdf)
+[**Bypassing Many Kernel Protections Using Elastic Objects**]()
 <font size=2>*Yueqi Chen*, ***Zhenpeng Lin***</font>
 Linux Security Summit Europe 2020 [[slides]](./talks/Bypassing-Many-Kernel-Protections-Using-Elastic-Objects.pdf)
 
