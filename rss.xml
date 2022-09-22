@@ -15,21 +15,21 @@
     <atom:link href="https://zplin.me/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Thu, 22 Sep 2022 19:14:05 GMT</pubDate>
+    <pubDate>Thu, 22 Sep 2022 19:39:26 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>About</title>
       <link>https://zplin.me/about.html</link>
       <guid>https://zplin.me/about.html</guid>
-      <pubDate>Thu, 22 Sep 2022 19:14:05 GMT</pubDate>
+      <pubDate>Thu, 22 Sep 2022 19:39:26 GMT</pubDate>
       
         
         
       <description>&lt;p&gt;&lt;font face=&quot;Menlo&quot; size=6&gt;&lt;b&gt;Zhenpeng Lin&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;Email: zplin&lt;span&gt;@&lt;span&gt;u.northwestern.edu&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/markak_&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;https://scholar.google.com/citations?user=-V2OvtwAAAAJ&amp;hl=en&quot;&gt;Google Scholar&lt;/a&gt; &lt;a href=&quot;./ZhenpengLin.pdf&quot;&gt;CV&lt;/a&gt; &lt;a href=&quot;./pgp_pub.txt&quot;&gt;PGP Key&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I am a third-year PhD student at &lt;a href=&quot;https://www.northwestern.edu/&quot;&gt;Northwestern University&lt;/a&gt;. I am fortunate to be advised by &lt;a href=&quot;http://xinyuxing.org/&quot;&gt;Dr. Xinyu Xing&lt;/a&gt;. My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team &lt;a href=&quot;https://nu1l.com/&quot;&gt;Nu1L&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I am a fourth-year PhD student at &lt;a href=&quot;https://www.northwestern.edu/&quot;&gt;Northwestern University&lt;/a&gt;. I am fortunate to be advised by &lt;a href=&quot;http://xinyuxing.org/&quot;&gt;Dr. Xinyu Xing&lt;/a&gt;. My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team &lt;a href=&quot;https://nu1l.com/&quot;&gt;Nu1L&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;08&amp;#x2F;2022&lt;/strong&gt; DirtyCred is accepted to CCS.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07&amp;#x2F;2022&lt;/strong&gt; I report (and exploit) a kernel 0day that could affect millions of Android devices to Google. &lt;a href=&quot;./pixel6_demo.mp4&quot;&gt;[demo]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;06&amp;#x2F;2022&lt;/strong&gt; Our &lt;a href=&quot;https://www.blackhat.com/us-22/briefings/schedule/#cautious-a-new-exploitation-method-no-pipe-but-as-nasty-as-dirty-pipe-27169&quot;&gt;submission&lt;/a&gt; of a new exploitation approach is accepted to Black Hat USA.&lt;/p&gt;
