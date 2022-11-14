@@ -11,6 +11,8 @@ I am a fourth-year PhD student at [Northwestern University](https://www.northwes
 
 # News
 
+**10/2022** GREBE is accepted to CSAW 2022 Finalists.
+
 **08/2022** DirtyCred is accepted to CCS.
 
 **07/2022** I report (and exploit) a kernel 0day that could affect millions of Android devices to Google. [[demo]](./pixel6_demo.mp4)
@@ -25,7 +27,7 @@ I am a fourth-year PhD student at [Northwestern University](https://www.northwes
 
 [**DirtyCred: Escalating Privilege in Linux Kernel**](./papers/DirtyCred.pdf)
 <font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
-ACM CCS 2022 [[code]](https://github.com/markakd/DirtyCred) [[slides]]()
+ACM CCS 2022 [[code]](https://github.com/markakd/DirtyCred) [[slides]](./papers/DirtyCred_CCS_slides.pdf) [[qualify slides]](./papers/Qualify_ZhenpengLin.pdf)
 
 [**Cautious! A New Exploitation Method! No Pipe but as Nasty as Dirty Pipe**](https://www.blackhat.com/us-22/briefings/schedule/#cautious-a-new-exploitation-method-no-pipe-but-as-nasty-as-dirty-pipe-27169)
 <font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
@@ -33,7 +35,7 @@ Black Hat USA 2022 [[slides]](./papers/DirtyCred-BH22-Zhenpeng.pdf)
 
 [**GREBE: Unveiling Exploitation Potential for Linux Kernel Bugs**](./papers/GREBE.pdf)
 <font size=2>***Zhenpeng Lin***, *Yueqi Chen, Yuhang Wu, Dongliang Mu, Chensheng Yu, Xinyu Xing, Kang Li*</font>
-IEEE S&P 2022  [[code]](https://github.com/markakd/GREBE) [[slides]](./papers/GREBE_slides.pdf)
+IEEE S&P 2022 (CSAW 22 Finalist)  [[code]](https://github.com/markakd/GREBE) [[slides]](./papers/GREBE_slides.pdf)
 
 [**An In-depth Analysis of Duplicated Linux Kernel Bug Reports**](./papers/bug_analysis.pdf)
 <font size=2>*Dongliang Mu, Yuhang Wu, Yueqi Chen, **Zhenpeng Lin**, Chensheng Yu, Xinyu Xing, Gang Wang*</font>
