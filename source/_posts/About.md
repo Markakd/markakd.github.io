@@ -11,6 +11,12 @@ I am a fourth-year PhD student at [Northwestern University](https://www.northwes
 
 # News
 
+**06/2023** One briefing about rooting Android with io\_uring is accepted to Black Hat USA 2023.
+
+**06/2023** One paper about evaluating kernel patch correctness is accepted to USENIX Security 2023.
+
+**06/2023** I will be joining Apple as a Security Researcher this summer.
+
 **10/2022** GREBE is accepted to CSAW 2022 Finalists.
 
 **08/2022** DirtyCred is accepted to CCS.
@@ -24,6 +30,14 @@ I am a fourth-year PhD student at [Northwestern University](https://www.northwes
 **11/2021** I am the very first to successfully exploit Google's [COS](https://cloud.google.com/container-optimized-os/docs) through [KCTF VRP](https://security.googleblog.com/2022/02/roses-are-red-violets-are-blue-giving.html).
 
 # Publications
+
+[**Bad io_uring: A New Era of Rooting for Android**](https://www.blackhat.com/us-23/briefings/schedule/index.html#bad-io_uring-a-new-era-of-rooting-for-android-32243)
+<font size=2>***Zhenpeng Lin***, *Xinyu Xing, Zhaofeng Chen, Kang Li*</font>
+Black Hat USA 2023
+
+[**Mitigating Security Risks in Linux with KLAUS: A Method for Evaluating Patch Correctness**]()
+<font size=2>*Yuhang Wu, **Zhenpeng Lin**, Yueqi Chen, Dang K Le, Dongliang Mu, Xinyu Xing*</font>
+USENIX Security 2023
 
 [**DirtyCred: Escalating Privilege in Linux Kernel**](./papers/DirtyCred.pdf)
 <font size=2>***Zhenpeng Lin***, *Yuhang Wu, Xinyu Xing*</font>
