@@ -7,9 +7,13 @@ Email: zplin<span>@<span>u.northwestern.edu
 
 [Twitter](https://twitter.com/markak_) [Google Scholar](https://scholar.google.com/citations?user=-V2OvtwAAAAJ&hl=en) [CV](./ZhenpengLin.pdf) [PGP Key](./pgp_pub.txt)
 
-I am a fourth-year PhD student at [Northwestern University](https://www.northwestern.edu). I am fortunate to be advised by [Dr. Xinyu Xing](http://xinyuxing.org/). My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team [Nu1L](https://nu1l.com).
+I obtained my Ph.D. degree from [Northwestern University](https://www.northwestern.edu) and my Master degree at [Penn State](https://psu.edu). I am fortunate to be advised by [Dr. Xinyu Xing](http://xinyuxing.org/). My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team [Nu1L](https://nu1l.com), now [StrawHat](https://strawhat.team/).
 
 # News
+
+**08/2023** I passed my dissertation defense!
+
+**07/2023** One paper introducing a new kernel exploitation technique is accepted to CCS 2023.
 
 **06/2023** One briefing about rooting Android with io\_uring is accepted to Black Hat USA 2023.
 
@@ -30,6 +34,10 @@ I am a fourth-year PhD student at [Northwestern University](https://www.northwes
 **11/2021** I am the very first to successfully exploit Google's [COS](https://cloud.google.com/container-optimized-os/docs) through [KCTF VRP](https://security.googleblog.com/2022/02/roses-are-red-violets-are-blue-giving.html).
 
 # Publications
+
+[**RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections**]()
+<font size=2>*Kyle Zeng, **Zhenpeng Lin**, Kangjie Lu, Xinyu Xing, Fish Wang, Adam Doupé, Yan Shoshitaishvili, Tiffany Bao*</font>
+CCS 2023
 
 [**Bad io_uring: A New Era of Rooting for Android**](https://www.blackhat.com/us-23/briefings/schedule/index.html#bad-io_uring-a-new-era-of-rooting-for-android-32243)
 <font size=2>***Zhenpeng Lin***, *Xinyu Xing, Zhaofeng Chen, Kang Li*</font>
