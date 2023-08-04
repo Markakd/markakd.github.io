@@ -15,21 +15,21 @@
     <atom:link href="https://zplin.me/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Fri, 04 Aug 2023 17:55:06 GMT</pubDate>
+    <pubDate>Fri, 04 Aug 2023 17:57:56 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>About</title>
       <link>https://zplin.me/about.html</link>
       <guid>https://zplin.me/about.html</guid>
-      <pubDate>Fri, 04 Aug 2023 17:55:06 GMT</pubDate>
+      <pubDate>Fri, 04 Aug 2023 17:57:56 GMT</pubDate>
       
         
         
       <description>&lt;p&gt;&lt;font face=&quot;Menlo&quot; size=6&gt;&lt;b&gt;Zhenpeng Lin&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;
 &lt;p&gt;Email: zplin&lt;span&gt;@&lt;span&gt;u.northwestern.edu&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/markak_&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;https://scholar.google.com/citations?user=-V2OvtwAAAAJ&amp;hl=en&quot;&gt;Google Scholar&lt;/a&gt; &lt;a href=&quot;./ZhenpengLin.pdf&quot;&gt;CV&lt;/a&gt; &lt;a href=&quot;./pgp_pub.txt&quot;&gt;PGP Key&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;I obtained my Ph.D. degree from &lt;a href=&quot;https://www.northwestern.edu/&quot;&gt;Northwestern University&lt;/a&gt; and my Master degree from &lt;a href=&quot;https://psu.edu/&quot;&gt;Penn State&lt;/a&gt;. I am fortunate to be advised by &lt;a href=&quot;http://xinyuxing.org/&quot;&gt;Dr. Xinyu Xing&lt;/a&gt;. My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team &lt;a href=&quot;https://nu1l.com/&quot;&gt;Nu1L&lt;/a&gt;, now &lt;a href=&quot;https://strawhat.team/&quot;&gt;StrawHat&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I obtained my Ph.D. degree from &lt;a href=&quot;https://www.northwestern.edu/&quot;&gt;Northwestern University&lt;/a&gt;. I am fortunate to be advised by &lt;a href=&quot;http://xinyuxing.org/&quot;&gt;Dr. Xinyu Xing&lt;/a&gt;. My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team &lt;a href=&quot;https://nu1l.com/&quot;&gt;Nu1L&lt;/a&gt;, now &lt;a href=&quot;https://strawhat.team/&quot;&gt;StrawHat&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;08&amp;#x2F;2023&lt;/strong&gt; I passed my dissertation defense!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07&amp;#x2F;2023&lt;/strong&gt; One paper introducing a new kernel exploitation technique is accepted to CCS 2023.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;06&amp;#x2F;2023&lt;/strong&gt; One briefing about rooting Android with io_uring is accepted to Black Hat USA 2023.&lt;/p&gt;
