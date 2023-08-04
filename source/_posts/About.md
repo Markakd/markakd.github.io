@@ -7,7 +7,7 @@ Email: zplin<span>@<span>u.northwestern.edu
 
 [Twitter](https://twitter.com/markak_) [Google Scholar](https://scholar.google.com/citations?user=-V2OvtwAAAAJ&hl=en) [CV](./ZhenpengLin.pdf) [PGP Key](./pgp_pub.txt)
 
-I obtained my Ph.D. degree from [Northwestern University](https://www.northwestern.edu) and my Master degree at [Penn State](https://psu.edu). I am fortunate to be advised by [Dr. Xinyu Xing](http://xinyuxing.org/). My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team [Nu1L](https://nu1l.com), now [StrawHat](https://strawhat.team/).
+I obtained my Ph.D. degree from [Northwestern University](https://www.northwestern.edu) and my Master degree from [Penn State](https://psu.edu). I am fortunate to be advised by [Dr. Xinyu Xing](http://xinyuxing.org/). My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team [Nu1L](https://nu1l.com), now [StrawHat](https://strawhat.team/).
 
 # News
 
