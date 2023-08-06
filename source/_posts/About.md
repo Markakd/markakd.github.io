@@ -41,9 +41,9 @@ CCS 2023
 
 [**Bad io_uring: A New Era of Rooting for Android**](https://www.blackhat.com/us-23/briefings/schedule/index.html#bad-io_uring-a-new-era-of-rooting-for-android-32243)
 <font size=2>***Zhenpeng Lin***, *Xinyu Xing, Zhaofeng Chen, Kang Li*</font>
-Black Hat USA 2023
+Black Hat USA 2023 [[slides]]()
 
-[**Mitigating Security Risks in Linux with KLAUS: A Method for Evaluating Patch Correctness**]()
+[**Mitigating Security Risks in Linux with KLAUS: A Method for Evaluating Patch Correctness**](./papers/KLAUS.pdf)
 <font size=2>*Yuhang Wu, **Zhenpeng Lin**, Yueqi Chen, Dang K Le, Dongliang Mu, Xinyu Xing*</font>
 USENIX Security 2023
 
