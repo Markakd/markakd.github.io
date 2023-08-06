@@ -25,7 +25,7 @@ I obtained my Ph.D. degree from [Northwestern University](https://www.northweste
 
 **08/2022** DirtyCred is accepted to CCS.
 
-**07/2022** I report (and exploit) a kernel 0day that could affect millions of Android devices to Google. [[demo]](./pixel6_demo.mp4)
+**07/2022** I report (and exploit) a kernel 0day that could affect millions of Android devices to Google. [[pixel 6 demo]](./pixel6_demo.mp4) [[s22 demo]](./s22_demo.mp4)
 
 **06/2022** Our [submission](https://www.blackhat.com/us-22/briefings/schedule/#cautious-a-new-exploitation-method-no-pipe-but-as-nasty-as-dirty-pipe-27169) of a new exploitation approach is accepted to Black Hat USA.
 
