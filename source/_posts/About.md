@@ -7,9 +7,11 @@ Email: zplin<span>@<span>u.northwestern.edu
 
 [Twitter](https://twitter.com/markak_) [Google Scholar](https://scholar.google.com/citations?user=-V2OvtwAAAAJ&hl=en) [CV](./ZhenpengLin.pdf) [PGP Key](./pgp_pub.txt)
 
-I obtained my Ph.D. degree from [Northwestern University](https://www.northwestern.edu) under the supervision of [Dr. Xinyu Xing](http://xinyuxing.org/). My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team [Nu1L](https://nu1l.com), now with [StrawHat](https://strawhat.team/).
+I am a Security Researcher at Apple. I obtained my Ph.D. degree from [Northwestern University](https://www.northwestern.edu) under the supervision of [Dr. Xinyu Xing](http://xinyuxing.org/). My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team [Nu1L](https://nu1l.com), now with [StrawHat](https://strawhat.team/).
 
 # News
+
+**09/2023** CAMP is accepted to USENIX Security 2024!
 
 **08/2023** I passed my dissertation defense!
 
@@ -34,6 +36,10 @@ I obtained my Ph.D. degree from [Northwestern University](https://www.northweste
 **11/2021** I am the very first to successfully exploit Google's [COS](https://cloud.google.com/container-optimized-os/docs) through [KCTF VRP](https://security.googleblog.com/2022/02/roses-are-red-violets-are-blue-giving.html).
 
 # Publications
+
+[**CAMP: Compiler and Allocator-based Heap Memory Protection**](./papers/CAMP.pdf)
+<font size=2>***Zhenpeng Lin**, Zheng Yu, Ziyi Guo, Simone Campanoni, Peter Dinda, and Xinyu Xing*</font>
+USENIX Security 2024
 
 [**RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections**]()
 <font size=2>*Kyle Zeng, **Zhenpeng Lin**, Kangjie Lu, Xinyu Xing, Fish Wang, Adam Doupé, Yan Shoshitaishvili, Tiffany Bao*</font>
