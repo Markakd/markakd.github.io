@@ -37,6 +37,10 @@ I am a Security Researcher at Apple. I obtained my Ph.D. degree from [Northweste
 
 # Publications
 
+[**SeaK: Rethinking the Design of a Secure Allocator for OS Kernel**]()
+<font size=2>**Zicheng Wang, Yicheng Guang, Yueqi Chen, **Zhenpeng Lin**, Michael Le, Dang K Le, Dan Williams, Xinyu Xing, Zhongshu Gu, Hani Jamjoom*</font>
+USENIX Security 2024
+
 [**CAMP: Compiler and Allocator-based Heap Memory Protection**](./papers/CAMP.pdf)
 <font size=2>***Zhenpeng Lin**, Zheng Yu, Ziyi Guo, Simone Campanoni, Peter Dinda, and Xinyu Xing*</font>
 USENIX Security 2024
