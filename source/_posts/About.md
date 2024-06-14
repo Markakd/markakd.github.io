@@ -11,6 +11,10 @@ I am a Security Researcher at Apple. I obtained my Ph.D. degree from [Northweste
 
 # News
 
+**06/2024** One paper studying "page spray" technique in Linux kernel is accepted to USENIX Security 2024!
+
+**02/2024** SeaK is accepted to USENIX Security 2024!
+
 **09/2023** CAMP is accepted to USENIX Security 2024!
 
 **08/2023** I passed my dissertation defense!
@@ -37,8 +41,12 @@ I am a Security Researcher at Apple. I obtained my Ph.D. degree from [Northweste
 
 # Publications
 
-[**SeaK: Rethinking the Design of a Secure Allocator for OS Kernel**]()
-<font size=2>**Zicheng Wang, Yicheng Guang, Yueqi Chen, **Zhenpeng Lin**, Michael Le, Dang K Le, Dan Williams, Xinyu Xing, Zhongshu Gu, Hani Jamjoom*</font>
+[**Take a Step Further: Understanding Page Spray in Linux Kernel Exploitation**](./papers/page_spray.pdf)
+<font size=2>*Ziyi Guo, Dang K Le, **Zhenpeng Lin**, Kyle Zeng, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé, Xinyu Xing*</font>
+USENIX Security 2024
+
+[**SeaK: Rethinking the Design of a Secure Allocator for OS Kernel**](./papers/SeaK.pdf)
+<font size=2>*Zicheng Wang, Yicheng Guang, Yueqi Chen, **Zhenpeng Lin**, Michael Le, Dang K Le, Dan Williams, Xinyu Xing, Zhongshu Gu, Hani Jamjoom*</font>
 USENIX Security 2024
 
 [**CAMP: Compiler and Allocator-based Heap Memory Protection**](./papers/CAMP.pdf)
