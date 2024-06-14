@@ -15,14 +15,14 @@
     <atom:link href="https://zplin.me/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
-    <pubDate>Sun, 28 Apr 2024 21:42:34 GMT</pubDate>
+    <pubDate>Fri, 14 Jun 2024 06:36:42 GMT</pubDate>
     <generator>http://hexo.io/</generator>
     
     <item>
       <title>About</title>
       <link>https://zplin.me/about.html</link>
       <guid>https://zplin.me/about.html</guid>
-      <pubDate>Sun, 28 Apr 2024 21:42:34 GMT</pubDate>
+      <pubDate>Fri, 14 Jun 2024 06:36:42 GMT</pubDate>
       
         
         
@@ -30,7 +30,9 @@
 &lt;p&gt;Email: zplin&lt;span&gt;@&lt;span&gt;u.northwestern.edu&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://twitter.com/markak_&quot;&gt;Twitter&lt;/a&gt; &lt;a href=&quot;https://scholar.google.com/citations?user=-V2OvtwAAAAJ&amp;hl=en&quot;&gt;Google Scholar&lt;/a&gt; &lt;a href=&quot;./ZhenpengLin.pdf&quot;&gt;CV&lt;/a&gt; &lt;a href=&quot;./pgp_pub.txt&quot;&gt;PGP Key&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;I am a Security Researcher at Apple. I obtained my Ph.D. degree from &lt;a href=&quot;https://www.northwestern.edu/&quot;&gt;Northwestern University&lt;/a&gt; under the supervision of &lt;a href=&quot;http://xinyuxing.org/&quot;&gt;Dr. Xinyu Xing&lt;/a&gt;. My Research focuses on OS exploitation and defense. I love hacking in the real world. I have done many Linux kernel exploitation and contributed many security fixes to Linux kernel. I used to play CTF a lot with team &lt;a href=&quot;https://nu1l.com/&quot;&gt;Nu1L&lt;/a&gt;, now with &lt;a href=&quot;https://strawhat.team/&quot;&gt;StrawHat&lt;/a&gt;.&lt;/p&gt;
-&lt;h1 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;09&amp;#x2F;2023&lt;/strong&gt; CAMP is accepted to USENIX Security 2024!&lt;/p&gt;
+&lt;h1 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;News&lt;/h1&gt;&lt;p&gt;&lt;strong&gt;06&amp;#x2F;2024&lt;/strong&gt; One paper studying “page spray” technique in Linux kernel is accepted to USENIX Security 2024!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;02&amp;#x2F;2024&lt;/strong&gt; SeaK is accepted to USENIX Security 2024!&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;09&amp;#x2F;2023&lt;/strong&gt; CAMP is accepted to USENIX Security 2024!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;08&amp;#x2F;2023&lt;/strong&gt; I passed my dissertation defense!&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;07&amp;#x2F;2023&lt;/strong&gt; One paper introducing a new kernel exploitation technique is accepted to CCS 2023.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;06&amp;#x2F;2023&lt;/strong&gt; One briefing about rooting Android with io_uring is accepted to Black Hat USA 2023.&lt;/p&gt;
@@ -42,7 +44,8 @@
 &lt;p&gt;&lt;strong&gt;06&amp;#x2F;2022&lt;/strong&gt; Our &lt;a href=&quot;https://www.blackhat.com/us-22/briefings/schedule/#cautious-a-new-exploitation-method-no-pipe-but-as-nasty-as-dirty-pipe-27169&quot;&gt;submission&lt;/a&gt; of a new exploitation approach is accepted to Black Hat USA.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;05&amp;#x2F;2022&lt;/strong&gt; We (team TUTELARY at NU) pwned lastest Ubuntu system at &lt;a href=&quot;https://www.zerodayinitiative.com/blog/2022/5/18/pwn2own-vancouver-2022-the-results&quot;&gt;Pwn2Own&lt;/a&gt;. &lt;a href=&quot;https://therecord.media/tesla-microsoft-and-ubuntu-bugs-found-during-pwn2own-hacking-competition/&quot;&gt;[press]&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;11&amp;#x2F;2021&lt;/strong&gt; I am the very first to successfully exploit Google’s &lt;a href=&quot;https://cloud.google.com/container-optimized-os/docs&quot;&gt;COS&lt;/a&gt; through &lt;a href=&quot;https://security.googleblog.com/2022/02/roses-are-red-violets-are-blue-giving.html&quot;&gt;KCTF VRP&lt;/a&gt;.&lt;/p&gt;
-&lt;h1 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;strong&gt;SeaK: Rethinking the Design of a Secure Allocator for OS Kernel&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;font size=2&gt;*&lt;em&gt;Zicheng Wang, Yicheng Guang, Yueqi Chen, &lt;strong&gt;Zhenpeng Lin&lt;/strong&gt;, Michael Le, Dang K Le, Dan Williams, Xinyu Xing, Zhongshu Gu, Hani Jamjoom&lt;/em&gt;&lt;/font&gt;&lt;br&gt;USENIX Security 2024&lt;/p&gt;
+&lt;h1 id=&quot;Publications&quot;&gt;&lt;a href=&quot;#Publications&quot; class=&quot;headerlink&quot; title=&quot;Publications&quot;&gt;&lt;/a&gt;Publications&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;./papers/page_spray.pdf&quot;&gt;&lt;strong&gt;Take a Step Further: Understanding Page Spray in Linux Kernel Exploitation&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;font size=2&gt;&lt;em&gt;Ziyi Guo, Dang K Le, &lt;strong&gt;Zhenpeng Lin&lt;/strong&gt;, Kyle Zeng, Ruoyu Wang, Tiffany Bao, Yan Shoshitaishvili, Adam Doupé, Xinyu Xing&lt;/em&gt;&lt;/font&gt;&lt;br&gt;USENIX Security 2024&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;./papers/SeaK.pdf&quot;&gt;&lt;strong&gt;SeaK: Rethinking the Design of a Secure Allocator for OS Kernel&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;font size=2&gt;&lt;em&gt;Zicheng Wang, Yicheng Guang, Yueqi Chen, &lt;strong&gt;Zhenpeng Lin&lt;/strong&gt;, Michael Le, Dang K Le, Dan Williams, Xinyu Xing, Zhongshu Gu, Hani Jamjoom&lt;/em&gt;&lt;/font&gt;&lt;br&gt;USENIX Security 2024&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;./papers/CAMP.pdf&quot;&gt;&lt;strong&gt;CAMP: Compiler and Allocator-based Heap Memory Protection&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;font size=2&gt;&lt;em&gt;&lt;strong&gt;Zhenpeng Lin&lt;/strong&gt;, Zheng Yu, Ziyi Guo, Simone Campanoni, Peter Dinda, and Xinyu Xing&lt;/em&gt;&lt;/font&gt;&lt;br&gt;USENIX Security 2024&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;strong&gt;RetSpill: Igniting User-Controlled Data to Burn Away Linux Kernel Protections&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;font size=2&gt;&lt;em&gt;Kyle Zeng, &lt;strong&gt;Zhenpeng Lin&lt;/strong&gt;, Kangjie Lu, Xinyu Xing, Fish Wang, Adam Doupé, Yan Shoshitaishvili, Tiffany Bao&lt;/em&gt;&lt;/font&gt;&lt;br&gt;CCS 2023&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.blackhat.com/us-23/briefings/schedule/index.html#bad-io_uring-a-new-era-of-rooting-for-android-32243&quot;&gt;&lt;strong&gt;Bad io_uring: A New Era of Rooting for Android&lt;/strong&gt;&lt;/a&gt;&lt;br&gt;&lt;font size=2&gt;&lt;em&gt;&lt;strong&gt;Zhenpeng Lin&lt;/strong&gt;&lt;/em&gt;, &lt;em&gt;Xinyu Xing, Zhaofeng Chen, Kang Li&lt;/em&gt;&lt;/font&gt;&lt;br&gt;Black Hat USA 2023 &lt;a href=&quot;&quot;&gt;[slides]&lt;/a&gt; &lt;a href=&quot;https://github.com/Markakd/bad_io_uring&quot;&gt;[exploit]&lt;/a&gt;  &lt;a href=&quot;./pixel6_demo.mp4&quot;&gt;[pixel 6 demo]&lt;/a&gt; &lt;a href=&quot;./s22_demo.mp4&quot;&gt;[s22 demo]&lt;/a&gt;&lt;/p&gt;
